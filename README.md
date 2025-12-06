@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Control Financiero Personal
 
 Una aplicación de escritorio para gestionar ingresos y gastos personales, construida con Python y Flet.
@@ -104,3 +105,6 @@ Si encuentras algún problema o tienes sugerencias, por favor abre un issue en e
 ---
 
 ¡Gracias por usar el Sistema de Control Financiero Personal!
+=======
+# yyy
+>>>>>>> fed0fc672ac2bf11a85d0bda775822e4b3e77de5
